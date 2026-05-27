@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionfalculate",
+        "uuid": 10809920,
+        "checksum": "8mydcf"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
